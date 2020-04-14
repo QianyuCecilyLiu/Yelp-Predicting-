@@ -24,5 +24,5 @@ Code for data cleaning and image generating.
  ## Slides
 Two slides for two parts of this project
 
-## Yelp.ipynb/pdf
+## Yelp.ipynb
 Summary of our whole project.
