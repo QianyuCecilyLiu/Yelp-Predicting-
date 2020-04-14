@@ -1,4 +1,4 @@
-# Yelp-Predicting-
+# Yelp-Predicting
 Team members: Cecily Liu, Tingting Liang, Richard Yuan
 
 ## Description
