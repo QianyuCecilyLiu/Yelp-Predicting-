@@ -2,7 +2,7 @@
 Team members: Cecily Liu, Tingting Liang, Richard Yuan
 
 ## Description
-This project is aimed to predict Yelp ratings based on 1.5 million train data. We use a L2-regularized logistic classfier, which only spends less than 3 minutes on training a model and yields a RMSE 0.63.
+This project is aimed to predict Yelp ratings based on 1.5 million train data. We use a L2-regularized logistic classfier, which only spends less than 3 minutes on training a model and yields a RMSE 0.65.
 
 ## Code
 Code for data cleaning and image generating.
