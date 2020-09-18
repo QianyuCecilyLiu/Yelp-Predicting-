@@ -1,9 +1,5 @@
 # -*- coding: utf-8 -*-
 """
-Created on Tue Mar  6 23:34:19 2018
-
-@author: Think
-"""
 import pandas as pd
 import re
 import math
