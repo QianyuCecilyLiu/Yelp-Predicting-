@@ -1,9 +1,5 @@
-"""
-Created on Sat Feb 17
-
-@author:scao46@wisc.edu
-"""
 # -*- coding: utf-8 -*-
+
 import pandas as pd
 from gensim import models
 text = pd.read_csv("./data/clean data/data_clean.csv",header=None)[0]
