@@ -1,9 +1,5 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Mon Mar 12 13:40:32 2018
 
-@author: chenj
-"""
 import pandas as pd
 #import nltk.corpus
 import re
