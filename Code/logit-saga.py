@@ -1,9 +1,5 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Sun Mar 11 23:27:05 2018
 
-@author: chenj
-"""
 
 import pandas as pd
 yelp=pd.read_csv("./data/clean data/data_clean.csv",header=None)
