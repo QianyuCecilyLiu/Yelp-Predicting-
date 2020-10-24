@@ -1,6 +1,5 @@
 # -*- coding: utf-8 -*-
 
-
 import pandas as pd
 yelp=pd.read_csv("./data/clean data/data_clean.csv",header=None)
 yelp.columns=['text','star','cate','len','dot','exclamation','questionmark','smile','cry']
